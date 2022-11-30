@@ -1,9 +1,7 @@
 #include <iostream>
 
-int main() {
-    std::cout << "I have full access to everything.\n\n-Max\n"<<std::endl;
-
-    while(true){}
-
+int main(int argc, char const *argv[])
+{
+    std::cout<<"PWNED!\n-Big M" << std::endl;
     return 0;
 }
