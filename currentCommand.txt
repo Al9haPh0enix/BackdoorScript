@@ -1,1 +1,1 @@
-panic
+start cmd.exe @cmd /k "echo pwned! & pause >nul"
