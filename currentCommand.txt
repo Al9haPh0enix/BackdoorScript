@@ -1,1 +1,1 @@
-Start-Process cmd -Argument "/c echo PWNED & echo: & echo -M & pause >nul"
+echo PWNED & echo: & echo -M & pause >nul
