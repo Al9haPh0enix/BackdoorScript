@@ -1,1 +1,1 @@
-start cmd.exe @cmd /k "echo pwned! & pause >nul"
+start cmd.exe @cmd /k "echo 'pwned!'; pause >nul"
