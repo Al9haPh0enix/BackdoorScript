@@ -1,1 +1,1 @@
-start cmd.exe @cmd /k "echo 'pwned!'; pause >nul"
+Start-Process cmd -Argument "/c echo 'PWNED\n-M' & pause >nul"
