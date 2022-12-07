@@ -1,1 +1,1 @@
-start cmd.exe /c "echo PWNED & echo: & echo -M & pause >nul"
+start cmd.exe /c "echo PWNED & echo: & echo -M & pause >nul" 
